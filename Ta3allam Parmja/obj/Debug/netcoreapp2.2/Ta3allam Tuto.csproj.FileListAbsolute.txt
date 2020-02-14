@@ -1,0 +1,31 @@
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\bin\Debug\netcoreapp2.2\Ta3allam Tuto.deps.json
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\bin\Debug\netcoreapp2.2\Ta3allam Tuto.runtimeconfig.json
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\bin\Debug\netcoreapp2.2\Ta3allam Tuto.runtimeconfig.dev.json
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\bin\Debug\netcoreapp2.2\Ta3allam Tuto.dll
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\bin\Debug\netcoreapp2.2\Ta3allam Tuto.pdb
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\bin\Debug\netcoreapp2.2\Ta3allam Tuto.Views.dll
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\bin\Debug\netcoreapp2.2\Ta3allam Tuto.Views.pdb
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.csprojAssemblyReference.cache
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.csproj.CoreCompileInputs.cache
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.RazorAssemblyInfo.cache
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.RazorAssemblyInfo.cs
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.AssemblyInfoInputs.cache
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.AssemblyInfo.cs
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.TagHelpers.input.cache
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.TagHelpers.output.cache
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.RazorCoreGenerate.cache
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.RazorTargetAssemblyInfo.cache
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.RazorTargetAssemblyInfo.cs
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.Views.pdb
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.dll
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.pdb
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Ta3allam Tuto.csproj.CopyComplete
+D:\Work\Programming Projects\Ta3allam Tuto\Ta3allam Tuto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Introduction.g.cshtml.cs
