@@ -61,3 +61,5 @@ D:\Work\Programming Projects\Ta3allam Parmja\Ta3allam Parmja\obj\Debug\netcoreap
 D:\Work\Programming Projects\Ta3allam Parmja\Ta3allam Parmja\obj\Debug\netcoreapp2.2\Ta3allam Parmja.pdb
 D:\Work\Programming Projects\Ta3allam Parmja\Ta3allam Parmja\obj\Debug\netcoreapp2.2\Ta3allam Parmja.csproj.CopyComplete
 D:\Work\Programming Projects\Ta3allam Parmja\Ta3allam Parmja\obj\Debug\netcoreapp2.2\Razor\Views\Home\Getting Started\OpenGL.g.cshtml.cs
+D:\Work\Programming Projects\Ta3allam Parmja\Ta3allam Parmja\obj\Debug\netcoreapp2.2\Razor\Views\User\Registration.g.cshtml.cs
+D:\Work\Programming Projects\Ta3allam Parmja\Ta3allam Parmja\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.g.cshtml.cs

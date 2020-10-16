@@ -1,0 +1,25 @@
+﻿@model Ta3allam_Parmja.Models.User
+@{
+    ViewData["Title"] = "تسجيل الدخول";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="text-align:right;">تسجيل الدخول</h1>
+
+<div class="row" dir="rtl">
+    <div class="col-md-4">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="EmailAddress" class="control-label"></label>
+                <input asp-for="EmailAddress" class="form-control" />
+                <span asp-validation-for="EmailAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+        </form>
+    </div>
+</div>
